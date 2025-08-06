@@ -1,0 +1,102 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1270789966,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-04-04T20:39:49.203Z",
+            "updatedAt": "2023-04-04T20:39:58.818Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        246.0,
+                        89.0
+                    ],
+                    [
+                        247.0,
+                        98.0
+                    ],
+                    [
+                        244.0,
+                        101.0
+                    ],
+                    [
+                        243.0,
+                        93.0
+                    ],
+                    [
+                        243.0,
+                        88.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1270789969,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-04-04T20:39:58.738Z",
+            "updatedAt": "2023-04-04T20:40:05.497Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        247.0,
+                        96.0
+                    ],
+                    [
+                        247.0,
+                        103.0
+                    ],
+                    [
+                        246.0,
+                        107.0
+                    ],
+                    [
+                        243.0,
+                        112.0
+                    ],
+                    [
+                        242.0,
+                        115.0
+                    ],
+                    [
+                        237.0,
+                        119.0
+                    ],
+                    [
+                        232.0,
+                        120.0
+                    ],
+                    [
+                        235.0,
+                        114.0
+                    ],
+                    [
+                        239.0,
+                        106.0
+                    ],
+                    [
+                        241.0,
+                        101.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 428,
+        "width": 572
+    }
+}

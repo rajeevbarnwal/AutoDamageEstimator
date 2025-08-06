@@ -1,0 +1,110 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164144805,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T17:53:11.859Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        457.0,
+                        294.0
+                    ],
+                    [
+                        492.0,
+                        290.0
+                    ],
+                    [
+                        492.0,
+                        306.0
+                    ],
+                    [
+                        479.0,
+                        321.0
+                    ],
+                    [
+                        455.0,
+                        318.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1270786181,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-04-04T17:53:11.792Z",
+            "updatedAt": "2023-04-04T17:53:21.981Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        460.0,
+                        270.0
+                    ],
+                    [
+                        442.0,
+                        271.0
+                    ],
+                    [
+                        415.0,
+                        270.0
+                    ],
+                    [
+                        386.0,
+                        267.0
+                    ],
+                    [
+                        366.0,
+                        264.0
+                    ],
+                    [
+                        369.0,
+                        269.0
+                    ],
+                    [
+                        394.0,
+                        271.0
+                    ],
+                    [
+                        416.0,
+                        274.0
+                    ],
+                    [
+                        438.0,
+                        276.0
+                    ],
+                    [
+                        449.0,
+                        278.0
+                    ],
+                    [
+                        460.0,
+                        278.0
+                    ],
+                    [
+                        465.0,
+                        276.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 425,
+        "width": 570
+    }
+}

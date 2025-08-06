@@ -1,0 +1,262 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164144075,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.942Z",
+            "updatedAt": "2023-04-03T19:59:15.874Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        12.0,
+                        223.0
+                    ],
+                    [
+                        15.0,
+                        215.0
+                    ],
+                    [
+                        19.0,
+                        213.0
+                    ],
+                    [
+                        18.0,
+                        209.0
+                    ],
+                    [
+                        14.0,
+                        205.0
+                    ],
+                    [
+                        14.0,
+                        202.0
+                    ],
+                    [
+                        10.0,
+                        199.0
+                    ],
+                    [
+                        11.0,
+                        194.0
+                    ],
+                    [
+                        13.0,
+                        185.0
+                    ],
+                    [
+                        13.0,
+                        177.0
+                    ],
+                    [
+                        12.0,
+                        172.0
+                    ],
+                    [
+                        26.0,
+                        167.0
+                    ],
+                    [
+                        38.0,
+                        159.0
+                    ],
+                    [
+                        47.0,
+                        155.0
+                    ],
+                    [
+                        26.0,
+                        156.0
+                    ],
+                    [
+                        18.0,
+                        161.0
+                    ],
+                    [
+                        10.0,
+                        172.0
+                    ],
+                    [
+                        1.0,
+                        192.0
+                    ],
+                    [
+                        3.0,
+                        202.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164144076,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.942Z",
+            "updatedAt": "2023-04-03T19:59:15.874Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        18.0,
+                        196.0
+                    ],
+                    [
+                        9.0,
+                        188.0
+                    ],
+                    [
+                        13.0,
+                        184.0
+                    ],
+                    [
+                        17.0,
+                        184.0
+                    ],
+                    [
+                        28.0,
+                        187.0
+                    ],
+                    [
+                        30.0,
+                        198.0
+                    ],
+                    [
+                        24.0,
+                        194.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164144074,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.942Z",
+            "updatedAt": "2023-04-03T19:59:15.874Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        27.0,
+                        168.0
+                    ],
+                    [
+                        25.0,
+                        184.0
+                    ],
+                    [
+                        35.0,
+                        192.0
+                    ],
+                    [
+                        58.0,
+                        187.0
+                    ],
+                    [
+                        60.0,
+                        173.0
+                    ],
+                    [
+                        44.0,
+                        169.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1269588938,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-04-03T19:59:11.213Z",
+            "updatedAt": "2023-04-03T19:59:14.650Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        58.0,
+                        195.0
+                    ],
+                    [
+                        59.0,
+                        230.0
+                    ],
+                    [
+                        54.0,
+                        218.0
+                    ],
+                    [
+                        48.0,
+                        207.0
+                    ],
+                    [
+                        45.0,
+                        199.0
+                    ],
+                    [
+                        48.0,
+                        195.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1269588942,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-04-03T19:59:15.806Z",
+            "updatedAt": "2023-04-03T19:59:19.487Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        61.0,
+                        249.0
+                    ],
+                    [
+                        65.0,
+                        266.0
+                    ],
+                    [
+                        61.0,
+                        265.0
+                    ],
+                    [
+                        58.0,
+                        260.0
+                    ],
+                    [
+                        58.0,
+                        250.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 465,
+        "width": 674
+    }
+}

@@ -1,0 +1,758 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164144220,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.943Z",
+            "updatedAt": "2023-04-03T20:57:47.599Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        281.0,
+                        209.0
+                    ],
+                    [
+                        257.0,
+                        195.0
+                    ],
+                    [
+                        252.0,
+                        178.0
+                    ],
+                    [
+                        268.0,
+                        167.0
+                    ],
+                    [
+                        291.0,
+                        169.0
+                    ],
+                    [
+                        304.0,
+                        193.0
+                    ],
+                    [
+                        297.0,
+                        207.0
+                    ],
+                    [
+                        287.0,
+                        209.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164143911,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.942Z",
+            "updatedAt": "2023-04-03T20:57:47.599Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        451.0,
+                        204.0
+                    ],
+                    [
+                        472.0,
+                        193.0
+                    ],
+                    [
+                        489.0,
+                        192.0
+                    ],
+                    [
+                        491.0,
+                        194.0
+                    ],
+                    [
+                        475.0,
+                        202.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164144216,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.943Z",
+            "updatedAt": "2023-04-03T20:57:47.599Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        499.0,
+                        191.0
+                    ],
+                    [
+                        521.0,
+                        192.0
+                    ],
+                    [
+                        533.0,
+                        189.0
+                    ],
+                    [
+                        540.0,
+                        186.0
+                    ],
+                    [
+                        540.0,
+                        183.0
+                    ],
+                    [
+                        524.0,
+                        183.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164144213,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.943Z",
+            "updatedAt": "2023-04-03T20:57:47.599Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        557.0,
+                        187.0
+                    ],
+                    [
+                        557.0,
+                        184.0
+                    ],
+                    [
+                        560.0,
+                        181.0
+                    ],
+                    [
+                        565.0,
+                        180.0
+                    ],
+                    [
+                        572.0,
+                        177.0
+                    ],
+                    [
+                        575.0,
+                        178.0
+                    ],
+                    [
+                        577.0,
+                        179.0
+                    ],
+                    [
+                        577.0,
+                        181.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164144230,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.943Z",
+            "updatedAt": "2023-04-03T20:57:47.599Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        555.0,
+                        188.0
+                    ],
+                    [
+                        548.0,
+                        189.0
+                    ],
+                    [
+                        550.0,
+                        182.0
+                    ],
+                    [
+                        551.0,
+                        182.0
+                    ],
+                    [
+                        551.0,
+                        185.0
+                    ],
+                    [
+                        554.0,
+                        185.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164143910,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.942Z",
+            "updatedAt": "2023-04-03T20:57:47.599Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        450.0,
+                        203.0
+                    ],
+                    [
+                        429.0,
+                        201.0
+                    ],
+                    [
+                        468.0,
+                        192.0
+                    ],
+                    [
+                        482.0,
+                        189.0
+                    ],
+                    [
+                        496.0,
+                        185.0
+                    ],
+                    [
+                        501.0,
+                        186.0
+                    ],
+                    [
+                        509.0,
+                        184.0
+                    ],
+                    [
+                        515.0,
+                        181.0
+                    ],
+                    [
+                        525.0,
+                        180.0
+                    ],
+                    [
+                        534.0,
+                        180.0
+                    ],
+                    [
+                        538.0,
+                        179.0
+                    ],
+                    [
+                        537.0,
+                        183.0
+                    ],
+                    [
+                        525.0,
+                        183.0
+                    ],
+                    [
+                        514.0,
+                        186.0
+                    ],
+                    [
+                        500.0,
+                        191.0
+                    ],
+                    [
+                        497.0,
+                        193.0
+                    ],
+                    [
+                        493.0,
+                        197.0
+                    ],
+                    [
+                        479.0,
+                        202.0
+                    ],
+                    [
+                        483.0,
+                        196.0
+                    ],
+                    [
+                        489.0,
+                        192.0
+                    ],
+                    [
+                        477.0,
+                        194.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164144229,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.943Z",
+            "updatedAt": "2023-04-03T20:57:47.599Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        537.0,
+                        190.0
+                    ],
+                    [
+                        543.0,
+                        189.0
+                    ],
+                    [
+                        545.0,
+                        186.0
+                    ],
+                    [
+                        543.0,
+                        185.0
+                    ],
+                    [
+                        537.0,
+                        187.0
+                    ],
+                    [
+                        534.0,
+                        190.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164144224,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.943Z",
+            "updatedAt": "2023-04-03T20:57:47.599Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        413.0,
+                        206.0
+                    ],
+                    [
+                        444.0,
+                        207.0
+                    ],
+                    [
+                        444.0,
+                        203.0
+                    ],
+                    [
+                        429.0,
+                        201.0
+                    ],
+                    [
+                        411.0,
+                        200.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164144223,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.943Z",
+            "updatedAt": "2023-04-03T20:57:47.599Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        400.0,
+                        195.0
+                    ],
+                    [
+                        401.0,
+                        198.0
+                    ],
+                    [
+                        404.0,
+                        197.0
+                    ],
+                    [
+                        403.0,
+                        195.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164144225,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.943Z",
+            "updatedAt": "2023-04-03T20:57:47.599Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        462.0,
+                        256.0
+                    ],
+                    [
+                        462.0,
+                        263.0
+                    ],
+                    [
+                        468.0,
+                        261.0
+                    ],
+                    [
+                        469.0,
+                        258.0
+                    ],
+                    [
+                        485.0,
+                        256.0
+                    ],
+                    [
+                        482.0,
+                        254.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164144227,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.943Z",
+            "updatedAt": "2023-04-03T20:57:47.599Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        408.0,
+                        217.0
+                    ],
+                    [
+                        369.0,
+                        186.0
+                    ],
+                    [
+                        325.0,
+                        163.0
+                    ],
+                    [
+                        275.0,
+                        141.0
+                    ],
+                    [
+                        227.0,
+                        123.0
+                    ],
+                    [
+                        232.0,
+                        118.0
+                    ],
+                    [
+                        293.0,
+                        138.0
+                    ],
+                    [
+                        344.0,
+                        159.0
+                    ],
+                    [
+                        390.0,
+                        184.0
+                    ],
+                    [
+                        415.0,
+                        202.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164144228,
+            "classId": 11380051,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.943Z",
+            "updatedAt": "2023-04-03T20:57:47.599Z",
+            "tags": [],
+            "classTitle": "Missing part",
+            "points": {
+                "exterior": [
+                    [
+                        398.0,
+                        299.0
+                    ],
+                    [
+                        402.0,
+                        289.0
+                    ],
+                    [
+                        453.0,
+                        288.0
+                    ],
+                    [
+                        450.0,
+                        298.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164143913,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.942Z",
+            "updatedAt": "2023-04-03T20:57:47.599Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        554.0,
+                        274.0
+                    ],
+                    [
+                        538.0,
+                        277.0
+                    ],
+                    [
+                        519.0,
+                        286.0
+                    ],
+                    [
+                        493.0,
+                        288.0
+                    ],
+                    [
+                        476.0,
+                        294.0
+                    ],
+                    [
+                        464.0,
+                        297.0
+                    ],
+                    [
+                        480.0,
+                        307.0
+                    ],
+                    [
+                        514.0,
+                        298.0
+                    ],
+                    [
+                        551.0,
+                        282.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164143916,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:43:53.942Z",
+            "updatedAt": "2023-04-03T20:57:47.599Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        351.0,
+                        226.0
+                    ],
+                    [
+                        331.0,
+                        228.0
+                    ],
+                    [
+                        336.0,
+                        254.0
+                    ],
+                    [
+                        345.0,
+                        262.0
+                    ],
+                    [
+                        364.0,
+                        246.0
+                    ],
+                    [
+                        364.0,
+                        232.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1260771260,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-03-21T14:19:57.034Z",
+            "updatedAt": "2023-04-03T20:57:47.599Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        597.0,
+                        169.0
+                    ],
+                    [
+                        571.0,
+                        183.0
+                    ],
+                    [
+                        534.0,
+                        191.0
+                    ],
+                    [
+                        482.0,
+                        203.0
+                    ],
+                    [
+                        455.0,
+                        208.0
+                    ],
+                    [
+                        445.0,
+                        250.0
+                    ],
+                    [
+                        457.0,
+                        257.0
+                    ],
+                    [
+                        483.0,
+                        254.0
+                    ],
+                    [
+                        518.0,
+                        246.0
+                    ],
+                    [
+                        555.0,
+                        232.0
+                    ],
+                    [
+                        585.0,
+                        220.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1269678552,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-04-03T20:57:47.496Z",
+            "updatedAt": "2023-04-03T20:57:55.259Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        356.0,
+                        258.0
+                    ],
+                    [
+                        338.0,
+                        255.0
+                    ],
+                    [
+                        319.0,
+                        251.0
+                    ],
+                    [
+                        311.0,
+                        251.0
+                    ],
+                    [
+                        314.0,
+                        257.0
+                    ],
+                    [
+                        327.0,
+                        259.0
+                    ],
+                    [
+                        339.0,
+                        259.0
+                    ],
+                    [
+                        356.0,
+                        262.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 477,
+        "width": 630
+    }
+}

@@ -1,0 +1,16 @@
+streamlit
+fastapi
+uvicorn
+torch
+tensorflow
+ultralytics      # for YOLOv5/YOLOv8
+opencv-python
+pillow
+sqlalchemy
+langchain
+llama-index      # or `gpt_index`
+logstash-formatter
+elasticsearch
+kaggle           # if using Kaggle CLI
+roboflow         # if using Roboflow API
+python-multipart==0.0.20

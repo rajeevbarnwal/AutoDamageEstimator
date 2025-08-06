@@ -1,0 +1,122 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164144809,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:03:06.639Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        268.0,
+                        230.0
+                    ],
+                    [
+                        290.0,
+                        234.0
+                    ],
+                    [
+                        291.0,
+                        248.0
+                    ],
+                    [
+                        275.0,
+                        257.0
+                    ],
+                    [
+                        249.0,
+                        260.0
+                    ],
+                    [
+                        252.0,
+                        243.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164144810,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:03:06.639Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        158.0,
+                        203.0
+                    ],
+                    [
+                        190.0,
+                        209.0
+                    ],
+                    [
+                        193.0,
+                        219.0
+                    ],
+                    [
+                        182.0,
+                        232.0
+                    ],
+                    [
+                        165.0,
+                        229.0
+                    ],
+                    [
+                        148.0,
+                        222.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1270786385,
+            "classId": 11380051,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-04-04T18:03:06.569Z",
+            "updatedAt": "2023-04-04T18:03:06.569Z",
+            "tags": [],
+            "classTitle": "Missing part",
+            "points": {
+                "exterior": [
+                    [
+                        44.0,
+                        263.0
+                    ],
+                    [
+                        78.0,
+                        275.0
+                    ],
+                    [
+                        75.0,
+                        307.0
+                    ],
+                    [
+                        44.0,
+                        291.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 427,
+        "width": 570
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164139567,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:11.058Z",
+            "updatedAt": "2023-03-22T07:26:28.087Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        152.0,
+                        195.0
+                    ],
+                    [
+                        161.0,
+                        201.0
+                    ],
+                    [
+                        153.0,
+                        202.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164139566,
+            "classId": 11380054,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:11.058Z",
+            "updatedAt": "2023-03-22T07:26:28.087Z",
+            "tags": [],
+            "classTitle": "Cracked",
+            "points": {
+                "exterior": [
+                    [
+                        132.0,
+                        228.0
+                    ],
+                    [
+                        129.0,
+                        241.0
+                    ],
+                    [
+                        137.0,
+                        236.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164139571,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:11.058Z",
+            "updatedAt": "2023-03-22T07:26:28.087Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        67.0,
+                        149.0
+                    ],
+                    [
+                        70.0,
+                        190.0
+                    ],
+                    [
+                        78.0,
+                        212.0
+                    ],
+                    [
+                        91.0,
+                        225.0
+                    ],
+                    [
+                        119.0,
+                        239.0
+                    ],
+                    [
+                        110.0,
+                        183.0
+                    ],
+                    [
+                        114.0,
+                        160.0
+                    ],
+                    [
+                        90.0,
+                        152.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1261107679,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-03-22T07:26:28.009Z",
+            "updatedAt": "2023-04-05T08:35:42.183Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        213.0,
+                        147.0
+                    ],
+                    [
+                        207.0,
+                        56.0
+                    ],
+                    [
+                        136.0,
+                        51.0
+                    ],
+                    [
+                        118.0,
+                        130.0
+                    ],
+                    [
+                        110.0,
+                        153.0
+                    ],
+                    [
+                        109.0,
+                        176.0
+                    ],
+                    [
+                        112.0,
+                        197.0
+                    ],
+                    [
+                        114.0,
+                        214.0
+                    ],
+                    [
+                        115.0,
+                        233.0
+                    ],
+                    [
+                        115.0,
+                        241.0
+                    ],
+                    [
+                        178.0,
+                        287.0
+                    ],
+                    [
+                        184.0,
+                        253.0
+                    ],
+                    [
+                        192.0,
+                        219.0
+                    ],
+                    [
+                        199.0,
+                        190.0
+                    ],
+                    [
+                        212.0,
+                        166.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 394,
+        "width": 574
+    }
+}

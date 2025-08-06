@@ -1,0 +1,330 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164140137,
+            "classId": 11380058,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:11.528Z",
+            "updatedAt": "2023-04-05T09:24:13.539Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        102.0,
+                        208.0
+                    ],
+                    [
+                        122.0,
+                        215.0
+                    ],
+                    [
+                        135.0,
+                        224.0
+                    ],
+                    [
+                        149.0,
+                        239.0
+                    ],
+                    [
+                        151.0,
+                        260.0
+                    ],
+                    [
+                        111.0,
+                        223.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140140,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:11.528Z",
+            "updatedAt": "2023-04-05T09:24:55.338Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        138.0,
+                        165.0
+                    ],
+                    [
+                        153.0,
+                        170.0
+                    ],
+                    [
+                        179.0,
+                        176.0
+                    ],
+                    [
+                        167.0,
+                        186.0
+                    ],
+                    [
+                        127.0,
+                        171.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140139,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:11.528Z",
+            "updatedAt": "2023-04-05T09:24:13.539Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        99.0,
+                        205.0
+                    ],
+                    [
+                        108.0,
+                        172.0
+                    ],
+                    [
+                        109.0,
+                        125.0
+                    ],
+                    [
+                        122.0,
+                        119.0
+                    ],
+                    [
+                        166.0,
+                        134.0
+                    ],
+                    [
+                        178.0,
+                        168.0
+                    ],
+                    [
+                        187.0,
+                        197.0
+                    ],
+                    [
+                        157.0,
+                        208.0
+                    ],
+                    [
+                        157.0,
+                        232.0
+                    ],
+                    [
+                        154.0,
+                        256.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1261110389,
+            "classId": 11380051,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-03-22T07:52:21.055Z",
+            "updatedAt": "2023-04-05T09:24:13.539Z",
+            "tags": [],
+            "classTitle": "Missing part",
+            "points": {
+                "exterior": [
+                    [
+                        450.0,
+                        181.0
+                    ],
+                    [
+                        492.0,
+                        169.0
+                    ],
+                    [
+                        496.0,
+                        205.0
+                    ],
+                    [
+                        455.0,
+                        214.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1271086323,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-04-05T09:23:15.468Z",
+            "updatedAt": "2023-04-05T09:24:13.539Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        210.0,
+                        283.0
+                    ],
+                    [
+                        203.0,
+                        244.0
+                    ],
+                    [
+                        218.0,
+                        249.0
+                    ],
+                    [
+                        247.0,
+                        251.0
+                    ],
+                    [
+                        254.0,
+                        247.0
+                    ],
+                    [
+                        277.0,
+                        214.0
+                    ],
+                    [
+                        283.0,
+                        224.0
+                    ],
+                    [
+                        259.0,
+                        259.0
+                    ],
+                    [
+                        245.0,
+                        264.0
+                    ],
+                    [
+                        220.0,
+                        264.0
+                    ],
+                    [
+                        218.0,
+                        276.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1271086421,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-04-05T09:24:08.094Z",
+            "updatedAt": "2023-04-05T09:24:13.539Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        155.0,
+                        235.0
+                    ],
+                    [
+                        98.0,
+                        207.0
+                    ],
+                    [
+                        101.0,
+                        220.0
+                    ],
+                    [
+                        155.0,
+                        263.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1271086434,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-04-05T09:24:13.475Z",
+            "updatedAt": "2023-04-05T09:24:23.190Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        119.0,
+                        114.0
+                    ],
+                    [
+                        111.0,
+                        132.0
+                    ],
+                    [
+                        110.0,
+                        155.0
+                    ],
+                    [
+                        108.0,
+                        170.0
+                    ],
+                    [
+                        107.0,
+                        187.0
+                    ],
+                    [
+                        105.0,
+                        218.0
+                    ],
+                    [
+                        98.0,
+                        215.0
+                    ],
+                    [
+                        96.0,
+                        184.0
+                    ],
+                    [
+                        98.0,
+                        157.0
+                    ],
+                    [
+                        103.0,
+                        135.0
+                    ],
+                    [
+                        105.0,
+                        126.0
+                    ],
+                    [
+                        111.0,
+                        110.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 428,
+        "width": 574
+    }
+}

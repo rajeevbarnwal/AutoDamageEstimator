@@ -1,0 +1,114 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164144761,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:14:13.400Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        471.0,
+                        178.0
+                    ],
+                    [
+                        481.0,
+                        170.0
+                    ],
+                    [
+                        499.0,
+                        171.0
+                    ],
+                    [
+                        505.0,
+                        184.0
+                    ],
+                    [
+                        504.0,
+                        198.0
+                    ],
+                    [
+                        504.0,
+                        200.0
+                    ],
+                    [
+                        493.0,
+                        226.0
+                    ],
+                    [
+                        476.0,
+                        258.0
+                    ],
+                    [
+                        463.0,
+                        267.0
+                    ],
+                    [
+                        475.0,
+                        192.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145053,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:12:52.988Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        445.0,
+                        96.0
+                    ],
+                    [
+                        449.0,
+                        107.0
+                    ],
+                    [
+                        456.0,
+                        127.0
+                    ],
+                    [
+                        460.0,
+                        143.0
+                    ],
+                    [
+                        463.0,
+                        166.0
+                    ],
+                    [
+                        456.0,
+                        167.0
+                    ],
+                    [
+                        449.0,
+                        130.0
+                    ],
+                    [
+                        438.0,
+                        96.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 428,
+        "width": 570
+    }
+}

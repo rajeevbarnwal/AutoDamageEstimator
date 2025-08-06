@@ -1,0 +1,54 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164141437,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:42:17.026Z",
+            "updatedAt": "2023-03-20T07:46:45.755Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        343.0,
+                        329.0
+                    ],
+                    [
+                        348.0,
+                        329.0
+                    ],
+                    [
+                        355.0,
+                        328.0
+                    ],
+                    [
+                        355.0,
+                        332.0
+                    ],
+                    [
+                        350.0,
+                        336.0
+                    ],
+                    [
+                        345.0,
+                        334.0
+                    ],
+                    [
+                        341.0,
+                        332.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 568,
+        "width": 742
+    }
+}

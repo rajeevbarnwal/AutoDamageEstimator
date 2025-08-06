@@ -1,0 +1,2526 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164140447,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        273.0,
+                        283.0
+                    ],
+                    [
+                        272.0,
+                        287.0
+                    ],
+                    [
+                        276.0,
+                        286.0
+                    ],
+                    [
+                        277.0,
+                        282.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140446,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        278.0,
+                        286.0
+                    ],
+                    [
+                        283.0,
+                        285.0
+                    ],
+                    [
+                        287.0,
+                        289.0
+                    ],
+                    [
+                        283.0,
+                        290.0
+                    ],
+                    [
+                        279.0,
+                        290.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140445,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        356.0,
+                        298.0
+                    ],
+                    [
+                        366.0,
+                        294.0
+                    ],
+                    [
+                        373.0,
+                        293.0
+                    ],
+                    [
+                        380.0,
+                        293.0
+                    ],
+                    [
+                        378.0,
+                        296.0
+                    ],
+                    [
+                        373.0,
+                        297.0
+                    ],
+                    [
+                        366.0,
+                        300.0
+                    ],
+                    [
+                        359.0,
+                        302.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140444,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        312.0,
+                        327.0
+                    ],
+                    [
+                        311.0,
+                        316.0
+                    ],
+                    [
+                        318.0,
+                        315.0
+                    ],
+                    [
+                        322.0,
+                        328.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140246,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        324.0,
+                        327.0
+                    ],
+                    [
+                        338.0,
+                        314.0
+                    ],
+                    [
+                        341.0,
+                        313.0
+                    ],
+                    [
+                        347.0,
+                        311.0
+                    ],
+                    [
+                        344.0,
+                        315.0
+                    ],
+                    [
+                        336.0,
+                        321.0
+                    ],
+                    [
+                        327.0,
+                        329.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140449,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        362.0,
+                        376.0
+                    ],
+                    [
+                        368.0,
+                        371.0
+                    ],
+                    [
+                        371.0,
+                        374.0
+                    ],
+                    [
+                        371.0,
+                        376.0
+                    ],
+                    [
+                        377.0,
+                        377.0
+                    ],
+                    [
+                        372.0,
+                        379.0
+                    ],
+                    [
+                        367.0,
+                        378.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140247,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        374.0,
+                        372.0
+                    ],
+                    [
+                        378.0,
+                        370.0
+                    ],
+                    [
+                        386.0,
+                        374.0
+                    ],
+                    [
+                        381.0,
+                        377.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140443,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        284.0,
+                        366.0
+                    ],
+                    [
+                        294.0,
+                        365.0
+                    ],
+                    [
+                        305.0,
+                        363.0
+                    ],
+                    [
+                        310.0,
+                        366.0
+                    ],
+                    [
+                        300.0,
+                        367.0
+                    ],
+                    [
+                        291.0,
+                        372.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140442,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        307.0,
+                        375.0
+                    ],
+                    [
+                        314.0,
+                        376.0
+                    ],
+                    [
+                        321.0,
+                        381.0
+                    ],
+                    [
+                        319.0,
+                        382.0
+                    ],
+                    [
+                        311.0,
+                        378.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140441,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        328.0,
+                        387.0
+                    ],
+                    [
+                        335.0,
+                        383.0
+                    ],
+                    [
+                        343.0,
+                        382.0
+                    ],
+                    [
+                        348.0,
+                        382.0
+                    ],
+                    [
+                        345.0,
+                        384.0
+                    ],
+                    [
+                        338.0,
+                        385.0
+                    ],
+                    [
+                        334.0,
+                        387.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140440,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        342.0,
+                        364.0
+                    ],
+                    [
+                        350.0,
+                        364.0
+                    ],
+                    [
+                        357.0,
+                        365.0
+                    ],
+                    [
+                        353.0,
+                        368.0
+                    ],
+                    [
+                        347.0,
+                        367.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140249,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        367.0,
+                        369.0
+                    ],
+                    [
+                        372.0,
+                        368.0
+                    ],
+                    [
+                        380.0,
+                        368.0
+                    ],
+                    [
+                        376.0,
+                        371.0
+                    ],
+                    [
+                        370.0,
+                        372.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140439,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        323.0,
+                        278.0
+                    ],
+                    [
+                        330.0,
+                        280.0
+                    ],
+                    [
+                        326.0,
+                        279.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140436,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        326.0,
+                        281.0
+                    ],
+                    [
+                        329.0,
+                        281.0
+                    ],
+                    [
+                        329.0,
+                        278.0
+                    ],
+                    [
+                        322.0,
+                        278.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140435,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        332.0,
+                        290.0
+                    ],
+                    [
+                        338.0,
+                        290.0
+                    ],
+                    [
+                        346.0,
+                        292.0
+                    ],
+                    [
+                        352.0,
+                        296.0
+                    ],
+                    [
+                        349.0,
+                        297.0
+                    ],
+                    [
+                        341.0,
+                        295.0
+                    ],
+                    [
+                        336.0,
+                        294.0
+                    ],
+                    [
+                        332.0,
+                        295.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140434,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        326.0,
+                        295.0
+                    ],
+                    [
+                        333.0,
+                        296.0
+                    ],
+                    [
+                        339.0,
+                        298.0
+                    ],
+                    [
+                        344.0,
+                        301.0
+                    ],
+                    [
+                        340.0,
+                        302.0
+                    ],
+                    [
+                        336.0,
+                        299.0
+                    ],
+                    [
+                        329.0,
+                        298.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140433,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        285.0,
+                        284.0
+                    ],
+                    [
+                        291.0,
+                        282.0
+                    ],
+                    [
+                        300.0,
+                        281.0
+                    ],
+                    [
+                        310.0,
+                        282.0
+                    ],
+                    [
+                        309.0,
+                        284.0
+                    ],
+                    [
+                        304.0,
+                        284.0
+                    ],
+                    [
+                        296.0,
+                        284.0
+                    ],
+                    [
+                        290.0,
+                        285.0
+                    ],
+                    [
+                        287.0,
+                        288.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140432,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        298.0,
+                        290.0
+                    ],
+                    [
+                        309.0,
+                        290.0
+                    ],
+                    [
+                        311.0,
+                        295.0
+                    ],
+                    [
+                        304.0,
+                        295.0
+                    ],
+                    [
+                        299.0,
+                        294.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140431,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        261.0,
+                        271.0
+                    ],
+                    [
+                        267.0,
+                        271.0
+                    ],
+                    [
+                        272.0,
+                        277.0
+                    ],
+                    [
+                        269.0,
+                        278.0
+                    ],
+                    [
+                        267.0,
+                        275.0
+                    ],
+                    [
+                        264.0,
+                        274.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140430,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        274.0,
+                        287.0
+                    ],
+                    [
+                        280.0,
+                        291.0
+                    ],
+                    [
+                        278.0,
+                        298.0
+                    ],
+                    [
+                        275.0,
+                        305.0
+                    ],
+                    [
+                        278.0,
+                        313.0
+                    ],
+                    [
+                        278.0,
+                        320.0
+                    ],
+                    [
+                        278.0,
+                        324.0
+                    ],
+                    [
+                        270.0,
+                        322.0
+                    ],
+                    [
+                        268.0,
+                        319.0
+                    ],
+                    [
+                        264.0,
+                        314.0
+                    ],
+                    [
+                        269.0,
+                        313.0
+                    ],
+                    [
+                        268.0,
+                        309.0
+                    ],
+                    [
+                        266.0,
+                        304.0
+                    ],
+                    [
+                        265.0,
+                        298.0
+                    ],
+                    [
+                        270.0,
+                        299.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140429,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        281.0,
+                        295.0
+                    ],
+                    [
+                        289.0,
+                        291.0
+                    ],
+                    [
+                        288.0,
+                        304.0
+                    ],
+                    [
+                        279.0,
+                        310.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140428,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        308.0,
+                        303.0
+                    ],
+                    [
+                        304.0,
+                        308.0
+                    ],
+                    [
+                        296.0,
+                        313.0
+                    ],
+                    [
+                        300.0,
+                        312.0
+                    ],
+                    [
+                        308.0,
+                        307.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140250,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        311.0,
+                        305.0
+                    ],
+                    [
+                        315.0,
+                        305.0
+                    ],
+                    [
+                        316.0,
+                        309.0
+                    ],
+                    [
+                        311.0,
+                        311.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140251,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        338.0,
+                        308.0
+                    ],
+                    [
+                        343.0,
+                        308.0
+                    ],
+                    [
+                        344.0,
+                        311.0
+                    ],
+                    [
+                        340.0,
+                        311.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140252,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        259.0,
+                        256.0
+                    ],
+                    [
+                        267.0,
+                        260.0
+                    ],
+                    [
+                        275.0,
+                        264.0
+                    ],
+                    [
+                        285.0,
+                        267.0
+                    ],
+                    [
+                        294.0,
+                        270.0
+                    ],
+                    [
+                        306.0,
+                        272.0
+                    ],
+                    [
+                        302.0,
+                        268.0
+                    ],
+                    [
+                        291.0,
+                        266.0
+                    ],
+                    [
+                        281.0,
+                        263.0
+                    ],
+                    [
+                        273.0,
+                        260.0
+                    ],
+                    [
+                        265.0,
+                        257.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140253,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        451.0,
+                        212.0
+                    ],
+                    [
+                        459.0,
+                        209.0
+                    ],
+                    [
+                        459.0,
+                        213.0
+                    ],
+                    [
+                        453.0,
+                        215.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140254,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        467.0,
+                        209.0
+                    ],
+                    [
+                        475.0,
+                        206.0
+                    ],
+                    [
+                        474.0,
+                        210.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140426,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        251.0,
+                        247.0
+                    ],
+                    [
+                        262.0,
+                        253.0
+                    ],
+                    [
+                        274.0,
+                        258.0
+                    ],
+                    [
+                        293.0,
+                        264.0
+                    ],
+                    [
+                        329.0,
+                        270.0
+                    ],
+                    [
+                        360.0,
+                        274.0
+                    ],
+                    [
+                        380.0,
+                        275.0
+                    ],
+                    [
+                        391.0,
+                        276.0
+                    ],
+                    [
+                        394.0,
+                        274.0
+                    ],
+                    [
+                        384.0,
+                        266.0
+                    ],
+                    [
+                        375.0,
+                        258.0
+                    ],
+                    [
+                        362.0,
+                        247.0
+                    ],
+                    [
+                        355.0,
+                        242.0
+                    ],
+                    [
+                        346.0,
+                        239.0
+                    ],
+                    [
+                        268.0,
+                        221.0
+                    ],
+                    [
+                        248.0,
+                        214.0
+                    ],
+                    [
+                        244.0,
+                        213.0
+                    ],
+                    [
+                        240.0,
+                        217.0
+                    ],
+                    [
+                        242.0,
+                        222.0
+                    ],
+                    [
+                        244.0,
+                        226.0
+                    ],
+                    [
+                        247.0,
+                        229.0
+                    ],
+                    [
+                        248.0,
+                        232.0
+                    ],
+                    [
+                        250.0,
+                        234.0
+                    ],
+                    [
+                        251.0,
+                        236.0
+                    ],
+                    [
+                        252.0,
+                        239.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140425,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        475.0,
+                        218.0
+                    ],
+                    [
+                        477.0,
+                        227.0
+                    ],
+                    [
+                        479.0,
+                        231.0
+                    ],
+                    [
+                        487.0,
+                        232.0
+                    ],
+                    [
+                        488.0,
+                        227.0
+                    ],
+                    [
+                        490.0,
+                        219.0
+                    ],
+                    [
+                        489.0,
+                        215.0
+                    ],
+                    [
+                        489.0,
+                        212.0
+                    ],
+                    [
+                        484.0,
+                        214.0
+                    ],
+                    [
+                        479.0,
+                        216.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140420,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        436.0,
+                        238.0
+                    ],
+                    [
+                        447.0,
+                        241.0
+                    ],
+                    [
+                        453.0,
+                        241.0
+                    ],
+                    [
+                        462.0,
+                        241.0
+                    ],
+                    [
+                        465.0,
+                        241.0
+                    ],
+                    [
+                        468.0,
+                        239.0
+                    ],
+                    [
+                        471.0,
+                        238.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140437,
+            "classId": 11380051,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Missing part",
+            "points": {
+                "exterior": [
+                    [
+                        499.0,
+                        202.0
+                    ],
+                    [
+                        499.0,
+                        208.0
+                    ],
+                    [
+                        500.0,
+                        210.0
+                    ],
+                    [
+                        500.0,
+                        213.0
+                    ],
+                    [
+                        501.0,
+                        215.0
+                    ],
+                    [
+                        500.0,
+                        216.0
+                    ],
+                    [
+                        501.0,
+                        221.0
+                    ],
+                    [
+                        496.0,
+                        218.0
+                    ],
+                    [
+                        493.0,
+                        220.0
+                    ],
+                    [
+                        493.0,
+                        222.0
+                    ],
+                    [
+                        492.0,
+                        226.0
+                    ],
+                    [
+                        491.0,
+                        231.0
+                    ],
+                    [
+                        489.0,
+                        234.0
+                    ],
+                    [
+                        487.0,
+                        238.0
+                    ],
+                    [
+                        485.0,
+                        240.0
+                    ],
+                    [
+                        482.0,
+                        244.0
+                    ],
+                    [
+                        481.0,
+                        247.0
+                    ],
+                    [
+                        479.0,
+                        250.0
+                    ],
+                    [
+                        478.0,
+                        254.0
+                    ],
+                    [
+                        478.0,
+                        257.0
+                    ],
+                    [
+                        477.0,
+                        262.0
+                    ],
+                    [
+                        474.0,
+                        267.0
+                    ],
+                    [
+                        473.0,
+                        271.0
+                    ],
+                    [
+                        471.0,
+                        273.0
+                    ],
+                    [
+                        466.0,
+                        275.0
+                    ],
+                    [
+                        463.0,
+                        276.0
+                    ],
+                    [
+                        459.0,
+                        276.0
+                    ],
+                    [
+                        457.0,
+                        273.0
+                    ],
+                    [
+                        453.0,
+                        267.0
+                    ],
+                    [
+                        447.0,
+                        264.0
+                    ],
+                    [
+                        445.0,
+                        262.0
+                    ],
+                    [
+                        424.0,
+                        259.0
+                    ],
+                    [
+                        397.0,
+                        257.0
+                    ],
+                    [
+                        391.0,
+                        256.0
+                    ],
+                    [
+                        386.0,
+                        255.0
+                    ],
+                    [
+                        380.0,
+                        253.0
+                    ],
+                    [
+                        376.0,
+                        253.0
+                    ],
+                    [
+                        368.0,
+                        251.0
+                    ],
+                    [
+                        365.0,
+                        250.0
+                    ],
+                    [
+                        348.0,
+                        239.0
+                    ],
+                    [
+                        353.0,
+                        237.0
+                    ],
+                    [
+                        370.0,
+                        237.0
+                    ],
+                    [
+                        385.0,
+                        237.0
+                    ],
+                    [
+                        404.0,
+                        237.0
+                    ],
+                    [
+                        413.0,
+                        238.0
+                    ],
+                    [
+                        422.0,
+                        239.0
+                    ],
+                    [
+                        434.0,
+                        241.0
+                    ],
+                    [
+                        443.0,
+                        241.0
+                    ],
+                    [
+                        446.0,
+                        242.0
+                    ],
+                    [
+                        453.0,
+                        242.0
+                    ],
+                    [
+                        460.0,
+                        242.0
+                    ],
+                    [
+                        464.0,
+                        242.0
+                    ],
+                    [
+                        468.0,
+                        242.0
+                    ],
+                    [
+                        472.0,
+                        238.0
+                    ],
+                    [
+                        475.0,
+                        238.0
+                    ],
+                    [
+                        481.0,
+                        236.0
+                    ],
+                    [
+                        487.0,
+                        230.0
+                    ],
+                    [
+                        495.0,
+                        215.0
+                    ],
+                    [
+                        496.0,
+                        211.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140423,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        462.0,
+                        285.0
+                    ],
+                    [
+                        479.0,
+                        274.0
+                    ],
+                    [
+                        482.0,
+                        272.0
+                    ],
+                    [
+                        485.0,
+                        268.0
+                    ],
+                    [
+                        486.0,
+                        263.0
+                    ],
+                    [
+                        489.0,
+                        256.0
+                    ],
+                    [
+                        494.0,
+                        252.0
+                    ],
+                    [
+                        498.0,
+                        249.0
+                    ],
+                    [
+                        502.0,
+                        247.0
+                    ],
+                    [
+                        508.0,
+                        243.0
+                    ],
+                    [
+                        511.0,
+                        237.0
+                    ],
+                    [
+                        511.0,
+                        233.0
+                    ],
+                    [
+                        510.0,
+                        228.0
+                    ],
+                    [
+                        501.0,
+                        213.0
+                    ],
+                    [
+                        499.0,
+                        220.0
+                    ],
+                    [
+                        494.0,
+                        224.0
+                    ],
+                    [
+                        492.0,
+                        228.0
+                    ],
+                    [
+                        489.0,
+                        232.0
+                    ],
+                    [
+                        484.0,
+                        242.0
+                    ],
+                    [
+                        484.0,
+                        245.0
+                    ],
+                    [
+                        483.0,
+                        249.0
+                    ],
+                    [
+                        481.0,
+                        252.0
+                    ],
+                    [
+                        479.0,
+                        255.0
+                    ],
+                    [
+                        478.0,
+                        259.0
+                    ],
+                    [
+                        478.0,
+                        263.0
+                    ],
+                    [
+                        477.0,
+                        268.0
+                    ],
+                    [
+                        472.0,
+                        273.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140438,
+            "classId": 11380058,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        313.0,
+                        385.0
+                    ],
+                    [
+                        322.0,
+                        385.0
+                    ],
+                    [
+                        325.0,
+                        385.0
+                    ],
+                    [
+                        333.0,
+                        387.0
+                    ],
+                    [
+                        337.0,
+                        386.0
+                    ],
+                    [
+                        341.0,
+                        386.0
+                    ],
+                    [
+                        346.0,
+                        385.0
+                    ],
+                    [
+                        350.0,
+                        385.0
+                    ],
+                    [
+                        353.0,
+                        383.0
+                    ],
+                    [
+                        352.0,
+                        381.0
+                    ],
+                    [
+                        352.0,
+                        379.0
+                    ],
+                    [
+                        346.0,
+                        377.0
+                    ],
+                    [
+                        342.0,
+                        378.0
+                    ],
+                    [
+                        335.0,
+                        380.0
+                    ],
+                    [
+                        332.0,
+                        383.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140448,
+            "classId": 11380058,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        267.0,
+                        371.0
+                    ],
+                    [
+                        273.0,
+                        373.0
+                    ],
+                    [
+                        276.0,
+                        374.0
+                    ],
+                    [
+                        282.0,
+                        376.0
+                    ],
+                    [
+                        285.0,
+                        375.0
+                    ],
+                    [
+                        285.0,
+                        372.0
+                    ],
+                    [
+                        283.0,
+                        369.0
+                    ],
+                    [
+                        279.0,
+                        368.0
+                    ],
+                    [
+                        276.0,
+                        369.0
+                    ],
+                    [
+                        271.0,
+                        370.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140424,
+            "classId": 11380051,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Missing part",
+            "points": {
+                "exterior": [
+                    [
+                        311.0,
+                        337.0
+                    ],
+                    [
+                        314.0,
+                        334.0
+                    ],
+                    [
+                        333.0,
+                        334.0
+                    ],
+                    [
+                        335.0,
+                        338.0
+                    ],
+                    [
+                        334.0,
+                        342.0
+                    ],
+                    [
+                        330.0,
+                        346.0
+                    ],
+                    [
+                        329.0,
+                        349.0
+                    ],
+                    [
+                        327.0,
+                        351.0
+                    ],
+                    [
+                        322.0,
+                        352.0
+                    ],
+                    [
+                        320.0,
+                        352.0
+                    ],
+                    [
+                        316.0,
+                        352.0
+                    ],
+                    [
+                        312.0,
+                        348.0
+                    ],
+                    [
+                        309.0,
+                        346.0
+                    ],
+                    [
+                        309.0,
+                        341.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140421,
+            "classId": 11380051,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Missing part",
+            "points": {
+                "exterior": [
+                    [
+                        371.0,
+                        302.0
+                    ],
+                    [
+                        386.0,
+                        297.0
+                    ],
+                    [
+                        414.0,
+                        292.0
+                    ],
+                    [
+                        426.0,
+                        288.0
+                    ],
+                    [
+                        433.0,
+                        286.0
+                    ],
+                    [
+                        438.0,
+                        289.0
+                    ],
+                    [
+                        442.0,
+                        292.0
+                    ],
+                    [
+                        453.0,
+                        288.0
+                    ],
+                    [
+                        468.0,
+                        283.0
+                    ],
+                    [
+                        478.0,
+                        276.0
+                    ],
+                    [
+                        483.0,
+                        273.0
+                    ],
+                    [
+                        487.0,
+                        267.0
+                    ],
+                    [
+                        489.0,
+                        262.0
+                    ],
+                    [
+                        492.0,
+                        259.0
+                    ],
+                    [
+                        501.0,
+                        253.0
+                    ],
+                    [
+                        515.0,
+                        240.0
+                    ],
+                    [
+                        515.0,
+                        245.0
+                    ],
+                    [
+                        511.0,
+                        249.0
+                    ],
+                    [
+                        508.0,
+                        256.0
+                    ],
+                    [
+                        506.0,
+                        260.0
+                    ],
+                    [
+                        506.0,
+                        262.0
+                    ],
+                    [
+                        504.0,
+                        272.0
+                    ],
+                    [
+                        503.0,
+                        274.0
+                    ],
+                    [
+                        498.0,
+                        277.0
+                    ],
+                    [
+                        495.0,
+                        278.0
+                    ],
+                    [
+                        495.0,
+                        281.0
+                    ],
+                    [
+                        495.0,
+                        284.0
+                    ],
+                    [
+                        499.0,
+                        284.0
+                    ],
+                    [
+                        504.0,
+                        288.0
+                    ],
+                    [
+                        509.0,
+                        293.0
+                    ],
+                    [
+                        512.0,
+                        296.0
+                    ],
+                    [
+                        512.0,
+                        298.0
+                    ],
+                    [
+                        510.0,
+                        303.0
+                    ],
+                    [
+                        506.0,
+                        307.0
+                    ],
+                    [
+                        502.0,
+                        309.0
+                    ],
+                    [
+                        495.0,
+                        310.0
+                    ],
+                    [
+                        482.0,
+                        315.0
+                    ],
+                    [
+                        465.0,
+                        325.0
+                    ],
+                    [
+                        443.0,
+                        336.0
+                    ],
+                    [
+                        423.0,
+                        346.0
+                    ],
+                    [
+                        409.0,
+                        353.0
+                    ],
+                    [
+                        395.0,
+                        359.0
+                    ],
+                    [
+                        390.0,
+                        362.0
+                    ],
+                    [
+                        380.0,
+                        364.0
+                    ],
+                    [
+                        376.0,
+                        364.0
+                    ],
+                    [
+                        368.0,
+                        365.0
+                    ],
+                    [
+                        357.0,
+                        363.0
+                    ],
+                    [
+                        351.0,
+                        358.0
+                    ],
+                    [
+                        347.0,
+                        354.0
+                    ],
+                    [
+                        347.0,
+                        351.0
+                    ],
+                    [
+                        347.0,
+                        348.0
+                    ],
+                    [
+                        347.0,
+                        343.0
+                    ],
+                    [
+                        347.0,
+                        338.0
+                    ],
+                    [
+                        348.0,
+                        333.0
+                    ],
+                    [
+                        353.0,
+                        327.0
+                    ],
+                    [
+                        359.0,
+                        320.0
+                    ],
+                    [
+                        363.0,
+                        315.0
+                    ],
+                    [
+                        365.0,
+                        310.0
+                    ],
+                    [
+                        367.0,
+                        306.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164140422,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.089Z",
+            "updatedAt": "2023-04-05T12:01:38.321Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        514.0,
+                        245.0
+                    ],
+                    [
+                        507.0,
+                        253.0
+                    ],
+                    [
+                        506.0,
+                        258.0
+                    ],
+                    [
+                        505.0,
+                        267.0
+                    ],
+                    [
+                        504.0,
+                        273.0
+                    ],
+                    [
+                        504.0,
+                        278.0
+                    ],
+                    [
+                        506.0,
+                        283.0
+                    ],
+                    [
+                        510.0,
+                        285.0
+                    ],
+                    [
+                        512.0,
+                        290.0
+                    ],
+                    [
+                        515.0,
+                        294.0
+                    ],
+                    [
+                        519.0,
+                        303.0
+                    ],
+                    [
+                        519.0,
+                        307.0
+                    ],
+                    [
+                        514.0,
+                        311.0
+                    ],
+                    [
+                        509.0,
+                        314.0
+                    ],
+                    [
+                        499.0,
+                        323.0
+                    ],
+                    [
+                        493.0,
+                        327.0
+                    ],
+                    [
+                        487.0,
+                        331.0
+                    ],
+                    [
+                        477.0,
+                        334.0
+                    ],
+                    [
+                        472.0,
+                        336.0
+                    ],
+                    [
+                        466.0,
+                        339.0
+                    ],
+                    [
+                        458.0,
+                        344.0
+                    ],
+                    [
+                        442.0,
+                        353.0
+                    ],
+                    [
+                        419.0,
+                        367.0
+                    ],
+                    [
+                        393.0,
+                        378.0
+                    ],
+                    [
+                        368.0,
+                        383.0
+                    ],
+                    [
+                        345.0,
+                        386.0
+                    ],
+                    [
+                        325.0,
+                        388.0
+                    ],
+                    [
+                        290.0,
+                        381.0
+                    ],
+                    [
+                        265.0,
+                        371.0
+                    ],
+                    [
+                        252.0,
+                        362.0
+                    ],
+                    [
+                        238.0,
+                        350.0
+                    ],
+                    [
+                        238.0,
+                        329.0
+                    ],
+                    [
+                        234.0,
+                        305.0
+                    ],
+                    [
+                        223.0,
+                        280.0
+                    ],
+                    [
+                        209.0,
+                        250.0
+                    ],
+                    [
+                        221.0,
+                        242.0
+                    ],
+                    [
+                        250.0,
+                        236.0
+                    ],
+                    [
+                        274.0,
+                        254.0
+                    ],
+                    [
+                        304.0,
+                        262.0
+                    ],
+                    [
+                        373.0,
+                        271.0
+                    ],
+                    [
+                        386.0,
+                        272.0
+                    ],
+                    [
+                        347.0,
+                        236.0
+                    ],
+                    [
+                        380.0,
+                        235.0
+                    ],
+                    [
+                        412.0,
+                        236.0
+                    ],
+                    [
+                        436.0,
+                        240.0
+                    ],
+                    [
+                        453.0,
+                        241.0
+                    ],
+                    [
+                        466.0,
+                        240.0
+                    ],
+                    [
+                        475.0,
+                        236.0
+                    ],
+                    [
+                        482.0,
+                        235.0
+                    ],
+                    [
+                        491.0,
+                        223.0
+                    ],
+                    [
+                        496.0,
+                        206.0
+                    ],
+                    [
+                        512.0,
+                        227.0
+                    ],
+                    [
+                        512.0,
+                        240.0
+                    ],
+                    [
+                        515.0,
+                        238.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1271113484,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-04-05T12:01:38.240Z",
+            "updatedAt": "2023-04-05T12:02:28.859Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        198.0,
+                        152.0
+                    ],
+                    [
+                        202.0,
+                        158.0
+                    ],
+                    [
+                        210.0,
+                        164.0
+                    ],
+                    [
+                        225.0,
+                        173.0
+                    ],
+                    [
+                        241.0,
+                        180.0
+                    ],
+                    [
+                        259.0,
+                        190.0
+                    ],
+                    [
+                        268.0,
+                        195.0
+                    ],
+                    [
+                        275.0,
+                        201.0
+                    ],
+                    [
+                        280.0,
+                        206.0
+                    ],
+                    [
+                        283.0,
+                        211.0
+                    ],
+                    [
+                        285.0,
+                        215.0
+                    ],
+                    [
+                        355.0,
+                        226.0
+                    ],
+                    [
+                        364.0,
+                        223.0
+                    ],
+                    [
+                        415.0,
+                        220.0
+                    ],
+                    [
+                        449.0,
+                        216.0
+                    ],
+                    [
+                        466.0,
+                        212.0
+                    ],
+                    [
+                        484.0,
+                        207.0
+                    ],
+                    [
+                        492.0,
+                        201.0
+                    ],
+                    [
+                        501.0,
+                        194.0
+                    ],
+                    [
+                        498.0,
+                        206.0
+                    ],
+                    [
+                        487.0,
+                        215.0
+                    ],
+                    [
+                        463.0,
+                        222.0
+                    ],
+                    [
+                        434.0,
+                        227.0
+                    ],
+                    [
+                        413.0,
+                        230.0
+                    ],
+                    [
+                        381.0,
+                        233.0
+                    ],
+                    [
+                        353.0,
+                        236.0
+                    ],
+                    [
+                        343.0,
+                        241.0
+                    ],
+                    [
+                        281.0,
+                        227.0
+                    ],
+                    [
+                        276.0,
+                        220.0
+                    ],
+                    [
+                        270.0,
+                        211.0
+                    ],
+                    [
+                        255.0,
+                        199.0
+                    ],
+                    [
+                        238.0,
+                        188.0
+                    ],
+                    [
+                        225.0,
+                        180.0
+                    ],
+                    [
+                        215.0,
+                        174.0
+                    ],
+                    [
+                        207.0,
+                        169.0
+                    ],
+                    [
+                        202.0,
+                        163.0
+                    ],
+                    [
+                        198.0,
+                        159.0
+                    ],
+                    [
+                        195.0,
+                        153.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 432,
+        "width": 575
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164147464,
+            "classId": 11380051,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:40.142Z",
+            "updatedAt": "2023-01-18T10:49:40.142Z",
+            "tags": [],
+            "classTitle": "Missing part",
+            "points": {
+                "exterior": [
+                    [
+                        65.0,
+                        289.0
+                    ],
+                    [
+                        104.0,
+                        299.0
+                    ],
+                    [
+                        150.0,
+                        308.0
+                    ],
+                    [
+                        138.0,
+                        349.0
+                    ],
+                    [
+                        58.0,
+                        321.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164147570,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:40.142Z",
+            "updatedAt": "2023-01-18T10:49:40.142Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        365.0,
+                        364.0
+                    ],
+                    [
+                        356.0,
+                        364.0
+                    ],
+                    [
+                        346.0,
+                        363.0
+                    ],
+                    [
+                        336.0,
+                        364.0
+                    ],
+                    [
+                        338.0,
+                        374.0
+                    ],
+                    [
+                        347.0,
+                        380.0
+                    ],
+                    [
+                        351.0,
+                        382.0
+                    ],
+                    [
+                        363.0,
+                        383.0
+                    ],
+                    [
+                        369.0,
+                        380.0
+                    ],
+                    [
+                        371.0,
+                        374.0
+                    ],
+                    [
+                        371.0,
+                        369.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 600,
+        "width": 797
+    }
+}

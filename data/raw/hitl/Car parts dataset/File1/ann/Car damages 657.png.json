@@ -1,0 +1,974 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164144767,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:27:41.339Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        250.0,
+                        185.0
+                    ],
+                    [
+                        291.0,
+                        167.0
+                    ],
+                    [
+                        363.0,
+                        145.0
+                    ],
+                    [
+                        376.0,
+                        143.0
+                    ],
+                    [
+                        388.0,
+                        134.0
+                    ],
+                    [
+                        394.0,
+                        126.0
+                    ],
+                    [
+                        404.0,
+                        133.0
+                    ],
+                    [
+                        399.0,
+                        145.0
+                    ],
+                    [
+                        412.0,
+                        169.0
+                    ],
+                    [
+                        405.0,
+                        193.0
+                    ],
+                    [
+                        405.0,
+                        208.0
+                    ],
+                    [
+                        413.0,
+                        236.0
+                    ],
+                    [
+                        415.0,
+                        282.0
+                    ],
+                    [
+                        407.0,
+                        279.0
+                    ],
+                    [
+                        403.0,
+                        243.0
+                    ],
+                    [
+                        389.0,
+                        230.0
+                    ],
+                    [
+                        373.0,
+                        223.0
+                    ],
+                    [
+                        357.0,
+                        228.0
+                    ],
+                    [
+                        333.0,
+                        253.0
+                    ],
+                    [
+                        315.0,
+                        296.0
+                    ],
+                    [
+                        282.0,
+                        296.0
+                    ],
+                    [
+                        299.0,
+                        235.0
+                    ],
+                    [
+                        304.0,
+                        221.0
+                    ],
+                    [
+                        300.0,
+                        215.0
+                    ],
+                    [
+                        287.0,
+                        216.0
+                    ],
+                    [
+                        270.0,
+                        219.0
+                    ],
+                    [
+                        254.0,
+                        221.0
+                    ],
+                    [
+                        234.0,
+                        225.0
+                    ],
+                    [
+                        211.0,
+                        227.0
+                    ],
+                    [
+                        191.0,
+                        224.0
+                    ],
+                    [
+                        198.0,
+                        215.0
+                    ],
+                    [
+                        216.0,
+                        201.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164144933,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        397.0,
+                        147.0
+                    ],
+                    [
+                        410.0,
+                        102.0
+                    ],
+                    [
+                        423.0,
+                        77.0
+                    ],
+                    [
+                        435.0,
+                        67.0
+                    ],
+                    [
+                        450.0,
+                        66.0
+                    ],
+                    [
+                        469.0,
+                        67.0
+                    ],
+                    [
+                        482.0,
+                        126.0
+                    ],
+                    [
+                        493.0,
+                        164.0
+                    ],
+                    [
+                        490.0,
+                        204.0
+                    ],
+                    [
+                        497.0,
+                        235.0
+                    ],
+                    [
+                        455.0,
+                        261.0
+                    ],
+                    [
+                        412.0,
+                        282.0
+                    ],
+                    [
+                        415.0,
+                        249.0
+                    ],
+                    [
+                        405.0,
+                        201.0
+                    ],
+                    [
+                        408.0,
+                        167.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145035,
+            "classId": 11380051,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Missing part",
+            "points": {
+                "exterior": [
+                    [
+                        470.0,
+                        71.0
+                    ],
+                    [
+                        486.0,
+                        76.0
+                    ],
+                    [
+                        504.0,
+                        105.0
+                    ],
+                    [
+                        497.0,
+                        115.0
+                    ],
+                    [
+                        481.0,
+                        120.0
+                    ],
+                    [
+                        470.0,
+                        83.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145047,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        501.0,
+                        128.0
+                    ],
+                    [
+                        509.0,
+                        126.0
+                    ],
+                    [
+                        510.0,
+                        139.0
+                    ],
+                    [
+                        512.0,
+                        149.0
+                    ],
+                    [
+                        507.0,
+                        158.0
+                    ],
+                    [
+                        495.0,
+                        153.0
+                    ],
+                    [
+                        490.0,
+                        139.0
+                    ],
+                    [
+                        485.0,
+                        126.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145041,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        449.0,
+                        207.0
+                    ],
+                    [
+                        457.0,
+                        212.0
+                    ],
+                    [
+                        464.0,
+                        208.0
+                    ],
+                    [
+                        467.0,
+                        214.0
+                    ],
+                    [
+                        457.0,
+                        219.0
+                    ],
+                    [
+                        450.0,
+                        214.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145038,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        450.0,
+                        140.0
+                    ],
+                    [
+                        458.0,
+                        137.0
+                    ],
+                    [
+                        458.0,
+                        153.0
+                    ],
+                    [
+                        450.0,
+                        153.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145033,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        440.0,
+                        155.0
+                    ],
+                    [
+                        450.0,
+                        172.0
+                    ],
+                    [
+                        452.0,
+                        193.0
+                    ],
+                    [
+                        455.0,
+                        204.0
+                    ],
+                    [
+                        461.0,
+                        205.0
+                    ],
+                    [
+                        462.0,
+                        180.0
+                    ],
+                    [
+                        454.0,
+                        159.0
+                    ],
+                    [
+                        444.0,
+                        146.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145037,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        433.0,
+                        190.0
+                    ],
+                    [
+                        441.0,
+                        188.0
+                    ],
+                    [
+                        441.0,
+                        212.0
+                    ],
+                    [
+                        440.0,
+                        226.0
+                    ],
+                    [
+                        432.0,
+                        227.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145036,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        438.0,
+                        194.0
+                    ],
+                    [
+                        445.0,
+                        187.0
+                    ],
+                    [
+                        447.0,
+                        198.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145032,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        411.0,
+                        187.0
+                    ],
+                    [
+                        417.0,
+                        192.0
+                    ],
+                    [
+                        421.0,
+                        203.0
+                    ],
+                    [
+                        411.0,
+                        219.0
+                    ],
+                    [
+                        405.0,
+                        204.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145040,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        282.0,
+                        245.0
+                    ],
+                    [
+                        302.0,
+                        240.0
+                    ],
+                    [
+                        322.0,
+                        260.0
+                    ],
+                    [
+                        320.0,
+                        288.0
+                    ],
+                    [
+                        294.0,
+                        302.0
+                    ],
+                    [
+                        257.0,
+                        301.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145042,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        294.0,
+                        251.0
+                    ],
+                    [
+                        300.0,
+                        253.0
+                    ],
+                    [
+                        298.0,
+                        270.0
+                    ],
+                    [
+                        295.0,
+                        294.0
+                    ],
+                    [
+                        287.0,
+                        294.0
+                    ],
+                    [
+                        284.0,
+                        266.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145034,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        204.0,
+                        315.0
+                    ],
+                    [
+                        214.0,
+                        315.0
+                    ],
+                    [
+                        212.0,
+                        345.0
+                    ],
+                    [
+                        203.0,
+                        345.0
+                    ],
+                    [
+                        198.0,
+                        323.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145039,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        158.0,
+                        312.0
+                    ],
+                    [
+                        171.0,
+                        313.0
+                    ],
+                    [
+                        179.0,
+                        308.0
+                    ],
+                    [
+                        182.0,
+                        319.0
+                    ],
+                    [
+                        164.0,
+                        328.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145044,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        190.0,
+                        314.0
+                    ],
+                    [
+                        200.0,
+                        309.0
+                    ],
+                    [
+                        200.0,
+                        321.0
+                    ],
+                    [
+                        192.0,
+                        327.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145043,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        138.0,
+                        303.0
+                    ],
+                    [
+                        148.0,
+                        308.0
+                    ],
+                    [
+                        141.0,
+                        317.0
+                    ],
+                    [
+                        132.0,
+                        309.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145046,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        152.0,
+                        292.0
+                    ],
+                    [
+                        165.0,
+                        282.0
+                    ],
+                    [
+                        164.0,
+                        297.0
+                    ],
+                    [
+                        147.0,
+                        305.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164145045,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:37.952Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        166.0,
+                        284.0
+                    ],
+                    [
+                        175.0,
+                        278.0
+                    ],
+                    [
+                        175.0,
+                        296.0
+                    ],
+                    [
+                        169.0,
+                        299.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1260944665,
+            "classId": 11380051,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-03-21T19:33:26.307Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Missing part",
+            "points": {
+                "exterior": [
+                    [
+                        473.0,
+                        125.0
+                    ],
+                    [
+                        416.0,
+                        143.0
+                    ],
+                    [
+                        416.0,
+                        124.0
+                    ],
+                    [
+                        420.0,
+                        113.0
+                    ],
+                    [
+                        428.0,
+                        101.0
+                    ],
+                    [
+                        435.0,
+                        92.0
+                    ],
+                    [
+                        442.0,
+                        83.0
+                    ],
+                    [
+                        451.0,
+                        78.0
+                    ],
+                    [
+                        462.0,
+                        76.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1270786717,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-04-04T18:26:35.367Z",
+            "updatedAt": "2023-04-04T18:26:53.633Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        196.0,
+                        220.0
+                    ],
+                    [
+                        147.0,
+                        219.0
+                    ],
+                    [
+                        115.0,
+                        219.0
+                    ],
+                    [
+                        98.0,
+                        221.0
+                    ],
+                    [
+                        89.0,
+                        225.0
+                    ],
+                    [
+                        80.0,
+                        226.0
+                    ],
+                    [
+                        72.0,
+                        223.0
+                    ],
+                    [
+                        66.0,
+                        227.0
+                    ],
+                    [
+                        69.0,
+                        234.0
+                    ],
+                    [
+                        81.0,
+                        238.0
+                    ],
+                    [
+                        92.0,
+                        235.0
+                    ],
+                    [
+                        105.0,
+                        231.0
+                    ],
+                    [
+                        171.0,
+                        229.0
+                    ],
+                    [
+                        197.0,
+                        228.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1270786721,
+            "classId": 11380051,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-04-04T18:26:53.539Z",
+            "updatedAt": "2023-04-04T18:26:53.539Z",
+            "tags": [],
+            "classTitle": "Missing part",
+            "points": {
+                "exterior": [
+                    [
+                        43.0,
+                        284.0
+                    ],
+                    [
+                        74.0,
+                        298.0
+                    ],
+                    [
+                        78.0,
+                        326.0
+                    ],
+                    [
+                        45.0,
+                        311.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 429,
+        "width": 570
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164145349,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:38.474Z",
+            "updatedAt": "2023-03-21T16:09:55.913Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        197.0,
+                        244.0
+                    ],
+                    [
+                        211.0,
+                        238.0
+                    ],
+                    [
+                        231.0,
+                        238.0
+                    ],
+                    [
+                        256.0,
+                        238.0
+                    ],
+                    [
+                        286.0,
+                        250.0
+                    ],
+                    [
+                        285.0,
+                        269.0
+                    ],
+                    [
+                        280.0,
+                        291.0
+                    ],
+                    [
+                        271.0,
+                        302.0
+                    ],
+                    [
+                        216.0,
+                        301.0
+                    ],
+                    [
+                        190.0,
+                        298.0
+                    ],
+                    [
+                        187.0,
+                        274.0
+                    ],
+                    [
+                        191.0,
+                        256.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1260826535,
+            "classId": 11380051,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-03-21T16:09:55.841Z",
+            "updatedAt": "2023-03-21T16:09:55.841Z",
+            "tags": [],
+            "classTitle": "Missing part",
+            "points": {
+                "exterior": [
+                    [
+                        104.0,
+                        162.0
+                    ],
+                    [
+                        148.0,
+                        175.0
+                    ],
+                    [
+                        145.0,
+                        211.0
+                    ],
+                    [
+                        99.0,
+                        194.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 423,
+        "width": 570
+    }
+}

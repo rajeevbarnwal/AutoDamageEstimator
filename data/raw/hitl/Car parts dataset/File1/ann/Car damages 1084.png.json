@@ -1,0 +1,58 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164140994,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:12.489Z",
+            "updatedAt": "2023-04-03T08:03:34.416Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        512.0,
+                        215.0
+                    ],
+                    [
+                        627.0,
+                        215.0
+                    ],
+                    [
+                        676.0,
+                        218.0
+                    ],
+                    [
+                        683.0,
+                        220.0
+                    ],
+                    [
+                        682.0,
+                        231.0
+                    ],
+                    [
+                        656.0,
+                        230.0
+                    ],
+                    [
+                        585.0,
+                        225.0
+                    ],
+                    [
+                        514.0,
+                        219.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 521,
+        "width": 712
+    }
+}

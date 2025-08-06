@@ -1,0 +1,6 @@
+
+    train: ../data/processed/train
+    val: ../data/processed/val
+    nc: 29  # Updated to match combined dataset (21 parts + 8 damages)
+    names: ['Quarter-panel', 'Front-wheel', 'Back-window', 'Trunk', 'Front-door', 'Rocker-panel', 'Grille', 'Windshield', 'Front-window', 'Back-door', 'Headlight', 'Back-wheel', 'Back-windshield', 'Hood', 'Fender', 'Tail-light', 'License-plate', 'Front-bumper', 'Back-bumper', 'Mirror', 'Roof', 'Missing part', 'Broken part', 'Scratch', 'Cracked', 'Dent', 'Flaking', 'Paint chip', 'Corrosion']
+    

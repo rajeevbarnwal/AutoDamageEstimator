@@ -1,0 +1,258 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164138938,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:10.518Z",
+            "updatedAt": "2023-04-04T20:00:45.853Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        460.0,
+                        272.0
+                    ],
+                    [
+                        493.0,
+                        262.0
+                    ],
+                    [
+                        501.0,
+                        262.0
+                    ],
+                    [
+                        501.0,
+                        264.0
+                    ],
+                    [
+                        463.0,
+                        277.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164138934,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:10.518Z",
+            "updatedAt": "2023-04-04T20:00:45.853Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        520.0,
+                        150.0
+                    ],
+                    [
+                        564.0,
+                        157.0
+                    ],
+                    [
+                        577.0,
+                        171.0
+                    ],
+                    [
+                        579.0,
+                        188.0
+                    ],
+                    [
+                        558.0,
+                        232.0
+                    ],
+                    [
+                        546.0,
+                        233.0
+                    ],
+                    [
+                        463.0,
+                        259.0
+                    ],
+                    [
+                        475.0,
+                        181.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1260980254,
+            "classId": 11380051,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-03-21T20:29:08.036Z",
+            "updatedAt": "2023-04-04T20:00:45.853Z",
+            "tags": [],
+            "classTitle": "Missing part",
+            "points": {
+                "exterior": [
+                    [
+                        453.0,
+                        149.0
+                    ],
+                    [
+                        536.0,
+                        142.0
+                    ],
+                    [
+                        539.0,
+                        130.0
+                    ],
+                    [
+                        514.0,
+                        95.0
+                    ],
+                    [
+                        508.0,
+                        86.0
+                    ],
+                    [
+                        439.0,
+                        88.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1270788659,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-04-04T20:00:23.826Z",
+            "updatedAt": "2023-04-04T20:00:45.853Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        593.0,
+                        175.0
+                    ],
+                    [
+                        575.0,
+                        201.0
+                    ],
+                    [
+                        568.0,
+                        222.0
+                    ],
+                    [
+                        562.0,
+                        237.0
+                    ],
+                    [
+                        556.0,
+                        236.0
+                    ],
+                    [
+                        559.0,
+                        229.0
+                    ],
+                    [
+                        573.0,
+                        194.0
+                    ],
+                    [
+                        573.0,
+                        188.0
+                    ],
+                    [
+                        568.0,
+                        185.0
+                    ],
+                    [
+                        565.0,
+                        181.0
+                    ],
+                    [
+                        570.0,
+                        179.0
+                    ],
+                    [
+                        577.0,
+                        180.0
+                    ],
+                    [
+                        582.0,
+                        179.0
+                    ],
+                    [
+                        586.0,
+                        173.0
+                    ],
+                    [
+                        585.0,
+                        166.0
+                    ],
+                    [
+                        588.0,
+                        164.0
+                    ],
+                    [
+                        594.0,
+                        172.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1270788674,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-04-04T20:00:45.730Z",
+            "updatedAt": "2023-04-04T20:00:49.181Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        463.0,
+                        154.0
+                    ],
+                    [
+                        509.0,
+                        149.0
+                    ],
+                    [
+                        516.0,
+                        151.0
+                    ],
+                    [
+                        507.0,
+                        156.0
+                    ],
+                    [
+                        461.0,
+                        166.0
+                    ],
+                    [
+                        458.0,
+                        157.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 386,
+        "width": 693
+    }
+}

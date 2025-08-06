@@ -1,0 +1,5 @@
+train: ../data/processed/train
+val: ../data/processed/valid
+test: ../data/processed/test
+nc: 8
+names: ['front_bumper', 'Bonnet', 'headlight', 'Bumper', 'Dickey', 'Door', 'Fender', 'Light', 'Windshield', 'minor', 'moderate', 'severe']

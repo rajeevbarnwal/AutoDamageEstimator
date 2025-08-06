@@ -1,0 +1,226 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164148917,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:40.839Z",
+            "updatedAt": "2023-03-21T14:52:05.369Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        131.0,
+                        468.0
+                    ],
+                    [
+                        126.0,
+                        452.0
+                    ],
+                    [
+                        134.0,
+                        445.0
+                    ],
+                    [
+                        145.0,
+                        446.0
+                    ],
+                    [
+                        147.0,
+                        455.0
+                    ],
+                    [
+                        150.0,
+                        464.0
+                    ],
+                    [
+                        144.0,
+                        470.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164148773,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:40.839Z",
+            "updatedAt": "2023-03-21T14:52:05.369Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        117.0,
+                        373.0
+                    ],
+                    [
+                        119.0,
+                        399.0
+                    ],
+                    [
+                        149.0,
+                        403.0
+                    ],
+                    [
+                        151.0,
+                        373.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164148878,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:40.839Z",
+            "updatedAt": "2023-03-21T14:52:05.369Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        626.0,
+                        404.0
+                    ],
+                    [
+                        619.0,
+                        392.0
+                    ],
+                    [
+                        621.0,
+                        384.0
+                    ],
+                    [
+                        632.0,
+                        380.0
+                    ],
+                    [
+                        642.0,
+                        381.0
+                    ],
+                    [
+                        648.0,
+                        394.0
+                    ],
+                    [
+                        637.0,
+                        400.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164148771,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:40.839Z",
+            "updatedAt": "2023-03-21T14:52:05.369Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        611.0,
+                        457.0
+                    ],
+                    [
+                        654.0,
+                        455.0
+                    ],
+                    [
+                        647.0,
+                        496.0
+                    ],
+                    [
+                        609.0,
+                        504.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164148769,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:40.839Z",
+            "updatedAt": "2023-03-21T14:52:05.369Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        13.0,
+                        247.0
+                    ],
+                    [
+                        15.0,
+                        225.0
+                    ],
+                    [
+                        30.0,
+                        226.0
+                    ],
+                    [
+                        30.0,
+                        248.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1260788202,
+            "classId": 11380051,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-03-21T14:52:05.291Z",
+            "updatedAt": "2023-03-21T14:52:05.291Z",
+            "tags": [],
+            "classTitle": "Missing part",
+            "points": {
+                "exterior": [
+                    [
+                        240.0,
+                        238.0
+                    ],
+                    [
+                        557.0,
+                        244.0
+                    ],
+                    [
+                        556.0,
+                        314.0
+                    ],
+                    [
+                        239.0,
+                        306.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 599,
+        "width": 795
+    }
+}

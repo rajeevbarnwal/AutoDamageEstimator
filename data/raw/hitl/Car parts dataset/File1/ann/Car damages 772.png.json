@@ -1,0 +1,458 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164139067,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:10.519Z",
+            "updatedAt": "2023-03-21T20:50:05.666Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        245.0,
+                        379.0
+                    ],
+                    [
+                        285.0,
+                        300.0
+                    ],
+                    [
+                        596.0,
+                        296.0
+                    ],
+                    [
+                        580.0,
+                        358.0
+                    ],
+                    [
+                        580.0,
+                        390.0
+                    ],
+                    [
+                        575.0,
+                        406.0
+                    ],
+                    [
+                        436.0,
+                        407.0
+                    ],
+                    [
+                        276.0,
+                        402.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164138995,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:10.519Z",
+            "updatedAt": "2023-03-21T20:50:05.666Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        448.0,
+                        360.0
+                    ],
+                    [
+                        450.0,
+                        364.0
+                    ],
+                    [
+                        447.0,
+                        364.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164138996,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:10.519Z",
+            "updatedAt": "2023-03-21T20:50:05.666Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        417.0,
+                        378.0
+                    ],
+                    [
+                        419.0,
+                        381.0
+                    ],
+                    [
+                        415.0,
+                        381.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164139066,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:10.519Z",
+            "updatedAt": "2023-03-21T20:50:05.666Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        438.0,
+                        397.0
+                    ],
+                    [
+                        439.0,
+                        399.0
+                    ],
+                    [
+                        437.0,
+                        399.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164138982,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:10.518Z",
+            "updatedAt": "2023-03-21T20:50:05.666Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        435.0,
+                        470.0
+                    ],
+                    [
+                        452.0,
+                        469.0
+                    ],
+                    [
+                        455.0,
+                        477.0
+                    ],
+                    [
+                        447.0,
+                        480.0
+                    ],
+                    [
+                        440.0,
+                        484.0
+                    ],
+                    [
+                        448.0,
+                        502.0
+                    ],
+                    [
+                        449.0,
+                        509.0
+                    ],
+                    [
+                        442.0,
+                        508.0
+                    ],
+                    [
+                        438.0,
+                        500.0
+                    ],
+                    [
+                        431.0,
+                        490.0
+                    ],
+                    [
+                        431.0,
+                        478.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164138973,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:10.518Z",
+            "updatedAt": "2023-03-21T20:50:05.666Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        359.0,
+                        468.0
+                    ],
+                    [
+                        364.0,
+                        469.0
+                    ],
+                    [
+                        364.0,
+                        476.0
+                    ],
+                    [
+                        359.0,
+                        472.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164139060,
+            "classId": 11380051,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:39:10.519Z",
+            "updatedAt": "2023-03-21T20:50:05.666Z",
+            "tags": [],
+            "classTitle": "Missing part",
+            "points": {
+                "exterior": [
+                    [
+                        154.0,
+                        439.0
+                    ],
+                    [
+                        200.0,
+                        453.0
+                    ],
+                    [
+                        206.0,
+                        467.0
+                    ],
+                    [
+                        195.0,
+                        472.0
+                    ],
+                    [
+                        170.0,
+                        464.0
+                    ],
+                    [
+                        157.0,
+                        453.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1260983322,
+            "classId": 11380052,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-03-21T20:48:57.898Z",
+            "updatedAt": "2023-04-04T20:20:27.417Z",
+            "tags": [],
+            "classTitle": "Broken part",
+            "points": {
+                "exterior": [
+                    [
+                        143.0,
+                        312.0
+                    ],
+                    [
+                        164.0,
+                        316.0
+                    ],
+                    [
+                        189.0,
+                        318.0
+                    ],
+                    [
+                        196.0,
+                        333.0
+                    ],
+                    [
+                        209.0,
+                        367.0
+                    ],
+                    [
+                        222.0,
+                        392.0
+                    ],
+                    [
+                        239.0,
+                        401.0
+                    ],
+                    [
+                        251.0,
+                        402.0
+                    ],
+                    [
+                        269.0,
+                        402.0
+                    ],
+                    [
+                        291.0,
+                        403.0
+                    ],
+                    [
+                        424.0,
+                        402.0
+                    ],
+                    [
+                        527.0,
+                        402.0
+                    ],
+                    [
+                        624.0,
+                        393.0
+                    ],
+                    [
+                        652.0,
+                        390.0
+                    ],
+                    [
+                        680.0,
+                        374.0
+                    ],
+                    [
+                        694.0,
+                        337.0
+                    ],
+                    [
+                        704.0,
+                        307.0
+                    ],
+                    [
+                        729.0,
+                        302.0
+                    ],
+                    [
+                        741.0,
+                        298.0
+                    ],
+                    [
+                        747.0,
+                        335.0
+                    ],
+                    [
+                        748.0,
+                        359.0
+                    ],
+                    [
+                        746.0,
+                        399.0
+                    ],
+                    [
+                        743.0,
+                        421.0
+                    ],
+                    [
+                        730.0,
+                        453.0
+                    ],
+                    [
+                        713.0,
+                        479.0
+                    ],
+                    [
+                        686.0,
+                        485.0
+                    ],
+                    [
+                        554.0,
+                        504.0
+                    ],
+                    [
+                        413.0,
+                        511.0
+                    ],
+                    [
+                        268.0,
+                        505.0
+                    ],
+                    [
+                        202.0,
+                        499.0
+                    ],
+                    [
+                        178.0,
+                        474.0
+                    ],
+                    [
+                        151.0,
+                        457.0
+                    ],
+                    [
+                        142.0,
+                        399.0
+                    ],
+                    [
+                        140.0,
+                        370.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1260983333,
+            "classId": 11380051,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-03-21T20:50:05.601Z",
+            "updatedAt": "2023-03-21T20:50:05.601Z",
+            "tags": [],
+            "classTitle": "Missing part",
+            "points": {
+                "exterior": [
+                    [
+                        343.0,
+                        302.0
+                    ],
+                    [
+                        559.0,
+                        299.0
+                    ],
+                    [
+                        555.0,
+                        352.0
+                    ],
+                    [
+                        348.0,
+                        348.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 605,
+        "width": 792
+    }
+}

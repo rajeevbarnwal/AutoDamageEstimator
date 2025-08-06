@@ -1,0 +1,1074 @@
+{
+    "tags": [],
+    "description": "",
+    "objects": [
+        {
+            "id": 1164146732,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        381.0,
+                        263.0
+                    ],
+                    [
+                        367.0,
+                        276.0
+                    ],
+                    [
+                        372.0,
+                        291.0
+                    ],
+                    [
+                        386.0,
+                        292.0
+                    ],
+                    [
+                        397.0,
+                        288.0
+                    ],
+                    [
+                        398.0,
+                        276.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146730,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        207.0,
+                        212.0
+                    ],
+                    [
+                        210.0,
+                        222.0
+                    ],
+                    [
+                        223.0,
+                        215.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146729,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        249.0,
+                        203.0
+                    ],
+                    [
+                        258.0,
+                        207.0
+                    ],
+                    [
+                        266.0,
+                        202.0
+                    ],
+                    [
+                        256.0,
+                        197.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146703,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        278.0,
+                        216.0
+                    ],
+                    [
+                        285.0,
+                        221.0
+                    ],
+                    [
+                        287.0,
+                        214.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146702,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        292.0,
+                        225.0
+                    ],
+                    [
+                        292.0,
+                        231.0
+                    ],
+                    [
+                        299.0,
+                        229.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146701,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        267.0,
+                        248.0
+                    ],
+                    [
+                        259.0,
+                        251.0
+                    ],
+                    [
+                        268.0,
+                        256.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146700,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        336.0,
+                        225.0
+                    ],
+                    [
+                        338.0,
+                        234.0
+                    ],
+                    [
+                        353.0,
+                        237.0
+                    ],
+                    [
+                        349.0,
+                        226.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146699,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        166.0,
+                        165.0
+                    ],
+                    [
+                        179.0,
+                        175.0
+                    ],
+                    [
+                        184.0,
+                        171.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146698,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        238.0,
+                        176.0
+                    ],
+                    [
+                        246.0,
+                        187.0
+                    ],
+                    [
+                        266.0,
+                        180.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146697,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-04-04T12:35:36.275Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        275.0,
+                        180.0
+                    ],
+                    [
+                        271.0,
+                        190.0
+                    ],
+                    [
+                        288.0,
+                        203.0
+                    ],
+                    [
+                        318.0,
+                        213.0
+                    ],
+                    [
+                        349.0,
+                        217.0
+                    ],
+                    [
+                        377.0,
+                        218.0
+                    ],
+                    [
+                        400.0,
+                        223.0
+                    ],
+                    [
+                        438.0,
+                        233.0
+                    ],
+                    [
+                        470.0,
+                        240.0
+                    ],
+                    [
+                        497.0,
+                        242.0
+                    ],
+                    [
+                        532.0,
+                        252.0
+                    ],
+                    [
+                        548.0,
+                        251.0
+                    ],
+                    [
+                        569.0,
+                        244.0
+                    ],
+                    [
+                        572.0,
+                        240.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146728,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        292.0,
+                        185.0
+                    ],
+                    [
+                        308.0,
+                        208.0
+                    ],
+                    [
+                        325.0,
+                        207.0
+                    ],
+                    [
+                        359.0,
+                        211.0
+                    ],
+                    [
+                        363.0,
+                        205.0
+                    ],
+                    [
+                        367.0,
+                        200.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146696,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        417.0,
+                        210.0
+                    ],
+                    [
+                        437.0,
+                        228.0
+                    ],
+                    [
+                        473.0,
+                        233.0
+                    ],
+                    [
+                        479.0,
+                        233.0
+                    ],
+                    [
+                        498.0,
+                        227.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146695,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        28.0,
+                        186.0
+                    ],
+                    [
+                        52.0,
+                        185.0
+                    ],
+                    [
+                        52.0,
+                        172.0
+                    ],
+                    [
+                        35.0,
+                        169.0
+                    ],
+                    [
+                        25.0,
+                        174.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146694,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        5.0,
+                        201.0
+                    ],
+                    [
+                        38.0,
+                        196.0
+                    ],
+                    [
+                        61.0,
+                        188.0
+                    ],
+                    [
+                        81.0,
+                        178.0
+                    ],
+                    [
+                        93.0,
+                        164.0
+                    ],
+                    [
+                        70.0,
+                        158.0
+                    ],
+                    [
+                        38.0,
+                        162.0
+                    ],
+                    [
+                        19.0,
+                        166.0
+                    ],
+                    [
+                        2.0,
+                        172.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146727,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        48.0,
+                        238.0
+                    ],
+                    [
+                        48.0,
+                        247.0
+                    ],
+                    [
+                        58.0,
+                        250.0
+                    ],
+                    [
+                        60.0,
+                        240.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146726,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        1.0,
+                        235.0
+                    ],
+                    [
+                        13.0,
+                        241.0
+                    ],
+                    [
+                        9.0,
+                        251.0
+                    ],
+                    [
+                        1.0,
+                        254.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146725,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        10.0,
+                        265.0
+                    ],
+                    [
+                        13.0,
+                        260.0
+                    ],
+                    [
+                        17.0,
+                        269.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146724,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        41.0,
+                        278.0
+                    ],
+                    [
+                        44.0,
+                        288.0
+                    ],
+                    [
+                        51.0,
+                        283.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146723,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        78.0,
+                        226.0
+                    ],
+                    [
+                        83.0,
+                        234.0
+                    ],
+                    [
+                        86.0,
+                        227.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146722,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        98.0,
+                        210.0
+                    ],
+                    [
+                        94.0,
+                        220.0
+                    ],
+                    [
+                        102.0,
+                        224.0
+                    ],
+                    [
+                        104.0,
+                        216.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146721,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-04-04T12:36:20.804Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        41.0,
+                        162.0
+                    ],
+                    [
+                        56.0,
+                        164.0
+                    ],
+                    [
+                        46.0,
+                        155.0
+                    ],
+                    [
+                        59.0,
+                        154.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146719,
+            "classId": 11380053,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-04-04T12:36:28.836Z",
+            "tags": [],
+            "classTitle": "Scratch",
+            "points": {
+                "exterior": [
+                    [
+                        11.0,
+                        165.0
+                    ],
+                    [
+                        33.0,
+                        163.0
+                    ],
+                    [
+                        27.0,
+                        153.0
+                    ],
+                    [
+                        12.0,
+                        151.0
+                    ],
+                    [
+                        5.0,
+                        156.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146718,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        126.0,
+                        157.0
+                    ],
+                    [
+                        137.0,
+                        168.0
+                    ],
+                    [
+                        145.0,
+                        161.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146715,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        337.0,
+                        312.0
+                    ],
+                    [
+                        326.0,
+                        326.0
+                    ],
+                    [
+                        340.0,
+                        332.0
+                    ],
+                    [
+                        343.0,
+                        321.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146714,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        387.0,
+                        340.0
+                    ],
+                    [
+                        376.0,
+                        344.0
+                    ],
+                    [
+                        367.0,
+                        352.0
+                    ],
+                    [
+                        381.0,
+                        363.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146713,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        393.0,
+                        300.0
+                    ],
+                    [
+                        400.0,
+                        321.0
+                    ],
+                    [
+                        417.0,
+                        331.0
+                    ],
+                    [
+                        419.0,
+                        313.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146712,
+            "classId": 11380057,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Paint chip",
+            "points": {
+                "exterior": [
+                    [
+                        640.0,
+                        258.0
+                    ],
+                    [
+                        653.0,
+                        273.0
+                    ],
+                    [
+                        674.0,
+                        267.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146711,
+            "classId": 11380055,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Dent",
+            "points": {
+                "exterior": [
+                    [
+                        639.0,
+                        257.0
+                    ],
+                    [
+                        653.0,
+                        278.0
+                    ],
+                    [
+                        685.0,
+                        281.0
+                    ],
+                    [
+                        713.0,
+                        278.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1164146707,
+            "classId": 11380056,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "GhazalehHITL",
+            "createdAt": "2023-01-18T10:49:39.579Z",
+            "updatedAt": "2023-03-21T07:17:47.840Z",
+            "tags": [],
+            "classTitle": "Flaking",
+            "points": {
+                "exterior": [
+                    [
+                        547.0,
+                        297.0
+                    ],
+                    [
+                        533.0,
+                        297.0
+                    ],
+                    [
+                        515.0,
+                        305.0
+                    ],
+                    [
+                        522.0,
+                        317.0
+                    ],
+                    [
+                        534.0,
+                        318.0
+                    ],
+                    [
+                        548.0,
+                        320.0
+                    ],
+                    [
+                        553.0,
+                        313.0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1260617328,
+            "classId": 11380054,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "MojtabaHITL",
+            "createdAt": "2023-03-21T07:17:47.768Z",
+            "updatedAt": "2023-03-21T07:18:13.696Z",
+            "tags": [],
+            "classTitle": "Cracked",
+            "points": {
+                "exterior": [
+                    [
+                        722.0,
+                        288.0
+                    ],
+                    [
+                        750.0,
+                        303.0
+                    ],
+                    [
+                        770.0,
+                        316.0
+                    ],
+                    [
+                        789.0,
+                        329.0
+                    ],
+                    [
+                        796.0,
+                        334.0
+                    ],
+                    [
+                        795.0,
+                        598.0
+                    ],
+                    [
+                        660.0,
+                        597.0
+                    ],
+                    [
+                        676.0,
+                        568.0
+                    ],
+                    [
+                        694.0,
+                        525.0
+                    ],
+                    [
+                        708.0,
+                        483.0
+                    ],
+                    [
+                        717.0,
+                        447.0
+                    ],
+                    [
+                        726.0,
+                        414.0
+                    ],
+                    [
+                        732.0,
+                        380.0
+                    ],
+                    [
+                        733.0,
+                        354.0
+                    ],
+                    [
+                        732.0,
+                        330.0
+                    ],
+                    [
+                        728.0,
+                        307.0
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ],
+    "size": {
+        "height": 598,
+        "width": 796
+    }
+}
