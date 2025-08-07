@@ -1,0 +1,6 @@
+node.name: auto-damage
+path.data: data               # leave as-is, it’s fine
+
+# REST-API settings (Logstash ≥ 8.8)
+api.http.host: 127.0.0.1      # optional – default is 127.0.0.1
+# api.http.port: 9601           # optional – default is 9600

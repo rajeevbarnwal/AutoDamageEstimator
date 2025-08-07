@@ -2,20 +2,26 @@ import streamlit as st
 import pandas as pd
 import sqlite3
 import json
+import os
+from pathlib import Path
 
-st.title("Admin Dashboard - AutoDamageEstimator")
+st.title("Admin Dashboard – AutoDamageEstimator")
 
-# Load analytics
-with open('logs/analytics.json', 'r') as f:
-    analytics = json.load(f)
+# ── analytics.json as before ──
+ANALYTICS = Path("logs/analytics.json")
+# ... your existing analytics loading block ...
 
 st.write("Request Analytics")
-df = pd.DataFrame(analytics)
-st.dataframe(df)
+st.dataframe(pd.DataFrame(analytics))
 
-# Load feedback
-conn = sqlite3.connect('database/feedback.db')
-feedback = pd.read_sql_query("SELECT * FROM feedback", conn)
-st.write("User Feedback")
-st.dataframe(feedback)
-conn.close()
+# ── now load the same feedback table ──
+DB_PATH = Path(__file__).parent.parent / "database" / "feedback.db"
+conn = sqlite3.connect(DB_PATH)
+try:
+    feedback = pd.read_sql_query("SELECT * FROM feedback ORDER BY id DESC", conn)
+    st.write("User Feedback")
+    st.dataframe(feedback)
+except Exception as e:
+    st.error(f"Could not load feedback table: {e}")
+finally:
+    conn.close()

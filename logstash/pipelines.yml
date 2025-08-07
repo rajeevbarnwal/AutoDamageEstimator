@@ -1,0 +1,3 @@
+# logstash/pipelines.yml   ← make sure the very first character is "-"
+- pipeline.id: auto-damage
+  path.config: "/Users/rajeevbarnwal/Desktop/Codes/AutoDamageEstimator/logstash/pipelines/auto-damage.conf"
