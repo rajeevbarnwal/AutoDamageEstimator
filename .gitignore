@@ -7,3 +7,4 @@ database/*.db
 *.pt
 .DS_Store
 /Users/rajeevbarnwal/Desktop/Codes/AutoDamageEstimator/app/streamlit_ui.py
+/Users/rajeevbarnwal/Desktop/Codes/AutoDamageEstimator/scripts/infer.py
