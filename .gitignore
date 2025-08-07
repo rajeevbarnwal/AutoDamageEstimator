@@ -6,3 +6,4 @@ database/*.db
 *.h5
 *.pt
 .DS_Store
+/Users/rajeevbarnwal/Desktop/Codes/AutoDamageEstimator/app/streamlit_ui.py
